@@ -1,2 +1,9 @@
-# Fall 2024 SQL Project
-This repository contains my SQL Project that I completed during Fall 2024.
+# Medical Database Project
+## Project Overview
+This database project utilizes SQL to derive insights from a medical database.
+
+### SQL Package Versions
+| Package    | Version |
+|------------|---------|
+| MySQL      | 8.0.39  |
+
